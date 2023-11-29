@@ -1,0 +1,153 @@
+.yes {
+    border: solid black;
+    height: 5%;
+    width: 10%;
+}
+.no {
+    border: solid black;
+    height: 5%;
+    width: 10%;
+}
+
+button {
+    display: inline-block;
+    margin: 25px;
+    padding: 15px;
+}
+
+
+button:hover {
+    cursor: pointer;
+}
+
+
+#top {
+    color: orangered;
+}
+
+p {
+    font-size: 25px;
+}
+
+.taas {
+    text-align: center;
+}
+
+h3 {
+    font-size: xx-large;
+}
+
+#one {
+    position: absolute;
+    margin-top: 25%;
+    margin-left: 10%;
+    height: 25%;
+    width: 25%;
+}
+
+#two {
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 55%;
+    height: 45%;
+    width: 15%;
+}
+
+#three {
+    position: absolute;
+    margin-top: 19%;
+    margin-left: 74%;
+    height: 50%;
+}
+
+#four {
+    position: absolute;
+    margin-left: 65%;
+    height: 29%;
+    width: 28%;
+}
+
+#five {
+    position: absolute;
+    margin-left: 15%;
+    height: 25%;
+    width: 35%;
+}
+
+.budi {
+    margin-top: 5%;
+    text-align: center;
+}
+
+marquee {
+    color: red;
+    font-size: 50px;
+}
+
+.Taas {
+    text-align: center;
+    margin-top: 15%;
+}
+
+#onee {
+    position: absolute;
+    margin-left: 45%;
+    height: 25%;
+    width: 25%;
+}
+
+#twoo {
+    position: absolute;
+    margin-left: 70%;
+    margin-top: 25%;
+    height: 25%;
+    width: 35%;
+}
+
+#three {
+    position: absolute;
+    height: 35%;
+    width: 45%;
+    margin-left: 25%;
+    margin-top: 35%;
+}
+
+#fourr {
+    position: absolute;
+    height: 20%;
+    width: 35%;
+    margin-top: 25%;
+    margin-left: 15%;
+}
+
+#fivee {
+    position: absolute;
+    height: 35%;
+    width: 15%;
+    margin-top: 10%;
+    margin-left: 65%;
+}
+
+#six {
+    position: absolute;
+    height: 25%;
+    width: 30%;
+    margin-top: 40%;
+    margin-left: 70%;
+}
+
+#seven {
+    position: absolute;
+    height: 45%;
+    width: 15%;
+    margin-top: 30%;
+}
+
+#eight {
+    position: absolute;
+    height: 25%;
+    width: 45%;
+    margin-top: 5%;
+}
+
+
